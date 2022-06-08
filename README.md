@@ -1,1 +1,1 @@
-This is an analysis of the famous Palmer penguins dataset. In the report, we look for patterns in the data and construct a machine learning model that predicts a penguin's species based on other factors (flipper length, height, weight, etc.).
+This is an analysis of the famous Palmer penguins dataset. In the report, we look for patterns in the data and construct a machine learning model that predicts a penguin's species based on other factors (flipper length, height, weight, etc.). All code snippets and visualizations are included.
